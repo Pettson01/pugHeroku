@@ -1,0 +1,19 @@
+{
+  "name": "pugheroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pettson01/pugHeroku.git"
+  },
+  "author": "Robin Flink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pettson01/pugHeroku/issues"
+  },
+  "homepage": "https://github.com/Pettson01/pugHeroku#readme"
+}

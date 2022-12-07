@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Pettson01/pugHeroku#readme",
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.18.2",
     "newsapi": "2.4.0",
     "pug": "2.0.4"
   }
